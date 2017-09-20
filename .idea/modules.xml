@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Larablog-master/.idea/Larablog-master.iml" filepath="$PROJECT_DIR$/../Larablog-master/.idea/Larablog-master.iml" />
+      <module fileurl="file://E:\OSPanel\domains\laravel-blog\.idea\laravel-blog.iml" filepath="E:\OSPanel\domains\laravel-blog\.idea\laravel-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/laravel.das.iml" filepath="$PROJECT_DIR$/.idea/laravel.das.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quickstart/.idea/quickstart.iml" filepath="$PROJECT_DIR$/../quickstart/.idea/quickstart.iml" />
+    </modules>
+  </component>
+</project>
