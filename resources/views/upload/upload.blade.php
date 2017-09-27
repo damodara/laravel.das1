@@ -8,7 +8,7 @@
                     <div class="panel-heading">Загрузка файлов</div>
 
                     <div class="panel-body">
-                        <form action="/store" method="post" enctype="multipart/form-data">
+                        <form action="{{ route('upload.file') }}" method="post" enctype="multipart/form-data">
                             {{ csrf_field() }}
                             <input type="file" name="files"><br>
                             <input type="submit" class="btn btn-info" value="Upload">
